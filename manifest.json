@@ -1,0 +1,19 @@
+{
+  "name": "Hot Fiesta Slot",
+  "short_name": "Hot Fiesta Slot",
+  "theme_color": "",
+  "background_color": "#2D0009",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1775649632-42351-0.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

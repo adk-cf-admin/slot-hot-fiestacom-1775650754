@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://slot-hot-fiesta.com/
+Sitemap: https://slot-hot-fiesta.com/sitemap.xml

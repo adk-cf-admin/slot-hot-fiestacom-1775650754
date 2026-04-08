@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#2D0009",
+            "lang-select-color": "#222829",
+            "bg-light": "#2D0009",
+            "welcome-bonus-bg": "#2D0009",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#190005",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#9B0E00",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#d0ae06",
+            "yellow": "#9B0E00",
+            "yellow-button": "#d0ae06",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#9B0E00",
+            "casino-cards": "#2D0009",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#9B0E00",
+            "providers-back": "#2D0009",
+            "faq-label": "#2D0009",
+            "bg-footer": "#2D0009",
+            "copyright": "#e7e7d5",
+            "starColor": "#9B0E00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5916"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5917",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Hot Fiesta Slot Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5918",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Hot Fiesta Slot"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Hot Fiesta Slot",
+                    "title": "Hot Fiesta Slot: 96.56% RTP, 9–27 Free Spins, 2x–5x Wilds, up to 5,000x",
+                    "description": "Hot Fiesta by Pragmatic Play is a vibrant 5x3 slot with 25 paylines, 96.56% RTP, 9 to 27 Free Spins, sticky roaming Wilds, and 2x, 3x, 5x multipliers. Maximum win potential reaches up to 5,000x stake.",
+                    "canonical": "slot-hot-fiesta.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5922",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slot-hot-fiesta.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5920"
+                },
+                "hero": {
+                    "title": "Hot Fiesta Slot — 9 to 27 Free Spins, 2x–5x Wilds, and up to 5,000x Win Potential",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5923",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5924",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Vibrant Mexican theme with memorable visuals",
+                        "Simple mechanics without overloaded game rules",
+                        "Wild multipliers up to 5x appear",
+                        "Free spins with sticky roaming wilds",
+                        "Win potential reaches up to 5000x",
+                        "Convenient 5x3 layout and 25 paylines",
+                        "Demo mode helps learn comfortably first"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Hot Fiesta App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5925",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Hot Fiesta App",
+                    "mobileGooglePlayImageTitle": "Hot Fiesta App",
+                    "mobileIosImageTitle": "Hot Fiesta App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Hot Fiesta",
+                        "description1": "Hot Fiesta is a colorful video slot by Pragmatic Play built around a lively Mexican street-party theme.",
+                        "items": [],
+                        "description2": "The game uses a classic 5-reel, 3-row setup with 25 fixed paylines, which makes it easy to understand from the very first spin. Its signature feature is the piñata Wild that can land with 2x, 3x, or 5x multipliers and boost line wins immediately. The real excitement comes from the Free Spins round, where Wilds become sticky and roaming, staying active while moving to new positions.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5926",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": " Hot Fiesta is generally treated as a high-volatility slot, so bigger moments are usually tied to the bonus phase rather than constant small wins. It works especially well for players who want a straightforward slot with festive visuals and strong bonus potential."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Hot Fiesta — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Fiesta Slot Features and Core Mechanics\n<\/h3>\n<p>\nHot Fiesta is a festive video slot designed around fast understanding and strong bonus potential. It uses a classic reel layout, fixed paylines, and clear symbol roles, so the gameplay feels accessible even for newer players. The main focus is on multiplier Wilds and a Free Spins round where sticky roaming Wilds can stay active and keep building pressure. As a result, the slot feels simple on the surface but much more explosive once the bonus feature starts.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Fiesta Key Features\n<\/h4>\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Layout: 5 reels, 3 rows<\/li>\n            <li>• Paylines: 25 fixed paylines<\/li>\n            <li>• RTP: 96.56%<\/li>\n            <li>• Volatility: High<\/li>\n            <li>• Maximum win: up to 5,000x stake<\/li>\n            <li>• Wild: piñata with 2x, 3x, or 5x multipliers<\/li>\n            <li>• Scatter: fireworks symbol<\/li>\n            <li>• Free Spins: 9 to 27 spins<\/li>\n            <li>• Bonus detail: sticky roaming Wilds<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play Hot Fiesta\n<\/h3>\n<p>\nHot Fiesta is usually available in browser-based online casinos that feature Pragmatic Play slots. The game is also commonly offered in free demo mode, which makes it easy to explore the mechanics before risking real funds. Thanks to its HTML5 format, the slot typically runs smoothly on desktop, tablet, and mobile devices. In most cases, you can launch it instantly without downloading extra software. The most convenient option is a platform that offers both demo access and the full real-money version, so you can learn the slot first and switch modes when ready.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Fiesta Demo Mode\n<\/h3>\n<p>\nThe Hot Fiesta demo mode is a practical way to learn the slot without putting your bankroll at risk. It lets you understand how the multipliers, Scatter trigger, and Free Spins feature actually behave during play. This matters even more in Hot Fiesta because the real excitement is concentrated in the bonus round rather than in constant small hits. Before switching to real-money play, the demo helps you test betting comfort and get used to the slot’s rhythm.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Fiesta Paytable and Core Symbols\n<\/h3>\n<p>\nThe Hot Fiesta paytable is easy to read: lower symbols support the base game, while the main value comes from premium symbols, Wilds, and the Scatter. The strongest regular payouts come from the top themed icons, while the piñata Wild adds both substitution power and multiplier value. The fireworks Scatter is important because it pays on its own and also unlocks the main bonus feature.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color:#9B0E00;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol Group<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">How It Works<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout \/ Potential<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Premium symbols<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Main higher-value line wins in the base game<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 30x for 5 matching symbols<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Piñata Wild<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Substitutes regular symbols and can carry 2x, 3x, or 5x multipliers<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 40x for 5 Wilds<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fireworks Scatter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Pays separately and triggers the bonus feature<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3x stake + 9 to 27 Free Spins<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Win in Hot Fiesta: What Real Play Usually Shows\n<\/h3>\n<p>\nWinning in Hot Fiesta always depends on luck, but real player experience tends to show the same pattern: the slot usually feels most dangerous and most rewarding inside the bonus round, not during ordinary base spins. In practice, players who manage their bet size well often handle the game better because Hot Fiesta uses a high-volatility model. A session can stay quiet for quite a while and then change sharply after one strong Free Spins feature with roaming Wilds and multipliers. That is why the most realistic approach is not chasing guaranteed wins, but staying patient, controlling bankroll pressure, and understanding that this slot is built for swings rather than constant payouts. A calm strategy usually means testing the demo first, keeping the stake moderate, and being ready to stop after a strong bonus sequence.\n<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Hot Fiesta — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Fiesta Bonuses and Special Features\n<\/h3>\n<p>\nHot Fiesta keeps its feature set focused, but every bonus mechanic matters and directly affects the feel of the game. Multiplier Wilds are already active in the base game, so even regular spins can carry extra value. The fireworks Scatter is especially important because it pays on its own and opens the bonus round. Once Free Spins begin, the slot becomes much more intense thanks to sticky roaming Wilds that stay in play and shift positions from spin to spin. Some versions also include an Ante Bet option that increases spin cost while improving bonus chances. In certain jurisdictions or versions, a Bonus Buy option may also appear, letting players jump straight into Free Spins. Altogether, Hot Fiesta offers a compact but impactful set of features built around bonus pressure and volatility.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Fiesta Multiplier Wilds\n<\/h4>\n<ul>\n            <li>• Wilds can land with 2x, 3x, or 5x multipliers. They strengthen regular line wins immediately and make the base game feel more active.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Fiesta Scatter Feature\n<\/h4>\n<ul>\n            <li>• 3 Scatter symbols trigger the bonus and also award a 3x stake payout. The same feature symbol acts as both a win trigger and a gateway to Free Spins.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Fiesta Free Spins\n<\/h4>\n<ul>\n            <li>• The bonus awards from 9 to 27 Free Spins. This is the main feature where the slot’s real upside becomes much more noticeable.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSticky Roaming Wilds in Hot Fiesta\n<\/h4>\n<ul>\n            <li>• During Free Spins, landed Wilds stay on the reels and move to new positions on following spins. This can keep multiplier pressure alive for the whole feature.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAdditional Wilds During the Bonus\n<\/h4>\n<ul>\n            <li>• Up to 3 new Wilds can appear on a single bonus spin. Previously landed Wilds remain active, which can make later spins much stronger.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Fiesta Ante Bet\n<\/h4>\n<ul>\n            <li>• Ante Bet increases spin cost by 40% and roughly doubles the chance of triggering the bonus round. It is useful only for players comfortable with faster bankroll usage.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Fiesta Bonus Buy\n<\/h4>\n<ul>\n            <li>• In some versions, Bonus Buy costs 100x the current stake and sends you directly into Free Spins. It is convenient for bonus hunters but increases session volatility sharply.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Fiesta Free Spins and Multipliers Table\n<\/h3>\n<p>\nFree Spins and multipliers are the real engine of Hot Fiesta. The bonus begins with the Scatter trigger, and from that point the slot becomes much more dangerous thanks to multiplier Wilds and their roaming sticky behavior. To understand the feature well, it helps to focus on three things: how many Free Spins you can get, what multipliers are available, and how Wilds behave once the bonus starts.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #9B0E00;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Feature<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">What the Player Gets<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Value<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3 Fireworks Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Direct payout and bonus trigger<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3x stake + 9 to 27 Free Spins<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Base Game Wild<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Boosts regular line wins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2x, 3x, or 5x multipliers<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Free Spins Wild<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Sticky roaming symbol during the bonus<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Keeps its multiplier between spins<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>New Bonus Wilds<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Extra pressure inside the feature<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 3 new Wilds per spin<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play Hot Fiesta\n<\/h3>\n<p>\nPlaying Hot Fiesta is straightforward: choose your stake, spin the reels, and follow wins across 25 fixed paylines. The main goal is to reach the Free Spins feature because that is where the slot’s strongest upside usually appears. From the first session, it helps to understand how multiplier Wilds work and when it makes more sense to test the standard mode or start in demo.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 1. Set Your Stake\n<\/h4>\n<ul>\n            <li>• Start with a comfortable amount so the slot’s high volatility does not pressure your bankroll too quickly.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 2. Use Regular Spins\n<\/h4>\n<ul>\n            <li>• Press Spin and follow line wins across 25 fixed paylines. Even in the base game, Wilds can land with 2x, 3x, or 5x multipliers.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 3. Watch for the Scatter\n<\/h4>\n<ul>\n            <li>• The key target is 3 fireworks Scatter symbols. They award a direct payout and open the bonus feature.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 4. Play the Bonus Calmly\n<\/h4>\n<ul>\n            <li>• During Free Spins, Wilds become sticky and roaming. The longer they stay active, the stronger the feature can become.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 5. Test the Demo First\n<\/h4>\n<ul>\n            <li>• Demo play helps you learn the slot’s rhythm, evaluate bet comfort, and understand bonus pacing before switching to real-money sessions.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Fiesta Playing Tips\n<\/h3>\n<p>\nHot Fiesta works best as a patient-play slot rather than a game for chaotic betting. Its high-volatility profile means the session can stay quiet for a while and then shift sharply through one strong bonus. That is why discipline matters more here than trying to force faster results.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 1. Keep the Stake Stable\n<\/h4>\n<ul>\n            <li>• A flat bet helps you survive dry spells better. Hot Fiesta often does not reveal its best moments immediately.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 2. Use a Real Bankroll Buffer\n<\/h4>\n<ul>\n            <li>• A longer bankroll gives you more room to reach the bonus feature. Too much pressure on the balance often ends the session too early.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 3. Start in Demo Mode\n<\/h4>\n<ul>\n            <li>• Demo play is the easiest way to understand whether the slot’s rhythm, base-game pace, and bonus potential suit your style.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 4. Treat Ante Bet Carefully\n<\/h4>\n<ul>\n            <li>• The better bonus chance is attractive, but each spin costs 40% more. That setting does not fit every bankroll.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 5. Set a Session Goal\n<\/h4>\n<ul>\n            <li>• Define a stop-loss and a stop-win point in advance. After a strong bonus, preserving part of the result is often smarter than extending the chase.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Fiesta Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nIn Hot Fiesta, bankrolls are usually lost not because of one unlucky spin, but because of repeated bad decisions inside a high-volatility game. The slot can stay quiet for long stretches, so emotional reactions become especially dangerous. The better a player understands these common mistakes, the easier it is to stay controlled and wait for a genuinely strong moment.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 1. Starting Too High\n<\/h4>\n<ul>\n            <li>• A large opening stake can destroy the bankroll before the bonus ever arrives, which is a common problem in Hot Fiesta.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 2. Chasing Losses\n<\/h4>\n<ul>\n            <li>• Raising the bet after empty spins increases pressure and breaks session discipline. The slot does not owe a recovery spin.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 3. Using Ante Bet All the Time\n<\/h4>\n<ul>\n            <li>• Each spin becomes 40% more expensive. Bonus chances improve, but the balance can disappear much faster without planning.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 4. Expecting Constant Small Payouts\n<\/h4>\n<ul>\n            <li>• Hot Fiesta is not built around smooth, steady returns. Much of the value is concentrated in stronger bonus sequences.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 5. Buying Bonuses Too Often\n<\/h4>\n<ul>\n            <li>• In versions with Bonus Buy, it may feel like a shortcut, but variance can eat the balance quickly if risk is not managed.<\/li>\n<\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 6. Playing Without Limits\n<\/h4>\n<ul>\n            <li>• Without a stop-loss and stop-win point, emotion starts controlling the session both after losses and after big hits.<\/li>\n<\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does the Wild replace the Scatter in Hot Fiesta?",
+                            "answer": "No. The piñata Wild substitutes regular symbols, but it does not replace the fireworks Scatter."
+                        },
+                        {
+                            "title": "Which reels need the Scatter in Hot Fiesta?",
+                            "answer": "The usual bonus trigger requires Scatter symbols on reels 1, 3, and 5."
+                        },
+                        {
+                            "title": "Does the Scatter pay by itself?",
+                            "answer": "Yes. Three Scatters normally award a 3x stake payout and also activate the Free Spins feature."
+                        },
+                        {
+                            "title": "Is Bonus Buy always available?",
+                            "answer": "No. It depends on the game version, operator, and jurisdiction. Some markets include it, while others do not."
+                        },
+                        {
+                            "title": "How is Ante Bet different from normal play?",
+                            "answer": "Ante Bet increases the cost of each spin by 40% and improves the chance of reaching the bonus. It speeds up the session and needs a stronger bankroll plan."
+                        },
+                        {
+                            "title": "Is the RTP always exactly the same?",
+                            "answer": "The commonly listed RTP is 96.56%, but some operators may use alternative game configurations."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
